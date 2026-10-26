@@ -2,7 +2,7 @@
 
 A Python prototype for hiding short UTF-8 messages in images using DCT coefficient differences and error correction.
 
-See the [detailed technical writeup](https://wqsv.pages.dev/) for details on how it works.
+See the [detailed technical writeup](https://wqsv.pages.dev/2026/09-14-discord-steganography/) for details on how it works.
 
 Usage:
 ```
